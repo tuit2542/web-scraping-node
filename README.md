@@ -17,5 +17,5 @@ This project is intended for educational purposes only and is free for students 
 3. run ```console
     foo@bar:~$ npm start
     foo
-    ```
+   
 4. wait for the output. 
