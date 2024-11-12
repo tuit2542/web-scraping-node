@@ -16,7 +16,8 @@ This project is intended for educational purposes only and is free for students 
 
 3. run
     ```console
+    foo@bar:~$ npm install
     foo@bar:~$ npm start
-    foo
+    
    
 5. wait for the output. 
