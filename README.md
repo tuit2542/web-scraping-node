@@ -14,8 +14,9 @@ This project is intended for educational purposes only and is free for students 
         PATH_OUTPUT='YOUR_PATH'
     2. change selector in web_scrapper.js file.
 
-3. run ```console
+3. run
+    ```console
     foo@bar:~$ npm start
     foo
    
-4. wait for the output. 
+5. wait for the output. 
